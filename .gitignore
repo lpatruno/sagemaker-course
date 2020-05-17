@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
 __pycache__
 .DS_Store
-speaker_ch03_interactive_model_training.ipynb
+speaker/
