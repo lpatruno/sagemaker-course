@@ -1,6 +1,5 @@
 .ipynb_checkpoints/
 __pycache__
 .DS_Store
-speaker/
 data/mnist/
 data/churn/test-batch.csv.out
