@@ -3,6 +3,7 @@
 TODO 
 * Link to course
 * Add introductory video to README
+* Add pdf slide deck for chapter 1
 
 ## Notebooks
 
