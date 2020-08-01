@@ -1,9 +1,8 @@
 # Build, Deploy, and Monitor ML Models with Amazon SageMaker
 
-TODO 
-* Link to course
-* Add introductory video to README
-* Add pdf slide deck for chapter 1
+This is the repository for my online course [Build, Deploy, and Monitor ML Models with Amazon SageMaker](https://mlinproduction.teachable.com/p/build-deploy-and-monitor-ml-models-with-amazon-sagemaker?utm_source=mlinproduction&utm_medium=github&utm_campaign=course_repo).
+
+If you'd like to learn more about the course, [check out this webinar](https://twimlai.com/sagemaker?utm_source=ml_in_production_webinar&utm_medium=affiliate_course&utm_campaign=sagemaker_course_202008) I recorded with Sam Charrington of the TWiML podcast.
 
 ## Notebooks
 
@@ -12,8 +11,6 @@ TODO
 * [Ch. 4 Experiment Management](https://github.com/lpatruno/sagemaker-course/blob/master/notebooks/ch04_experiment_management.ipynb) - In this chapter we learn how to use SageMaker Experiments to organize the results of deep learning experiments. We train models using the Tensorflow and PyTorch frameworks, perform hyperparameter optimization, and find the best performing model.
 * [Ch. 5 Model Deployment](https://github.com/lpatruno/sagemaker-course/blob/master/notebooks/ch05_model_deployment.ipynb) - In this chapter learn how to deploy trained models in SageMaker by deploying the models we trained in previous chapters. We demonstrate how to perform batch inference using SageMaker Batch Transform and how to perform online inference with hosted API endpoints. Finally, we configure autoscaling for hosted endpoints.
 * [Ch 6. Model Monitoring](https://github.com/lpatruno/sagemaker-course/blob/master/notebooks/ch05_model_deployment.ipynb) - In this chapter we learn how to use Model Monitor to monitor deployed endpoints. This lets us detect data drift by capturing and storing incoming feature data and comparing the distributions of live data to training data.
-
-
 
 
 ## Additional Information
