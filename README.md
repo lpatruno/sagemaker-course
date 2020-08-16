@@ -4,7 +4,7 @@ This is the repository for my online course [Build, Deploy, and Monitor ML Model
 
 If you'd like to learn more about the course, [check out this webinar](https://twimlai.com/sagemaker?utm_source=ml_in_production_webinar&utm_medium=affiliate_course&utm_campaign=sagemaker_course_202008) I recorded with Sam Charrington of the TWiML podcast.
 
-## Updating to Version 2.x of the SageMaker Python SDK
+## What version of the SageMaker Python SDK does this course use?
 
 The notebooks in this repository rely extensively on the official [SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/) to interact with SageMaker. 
 
