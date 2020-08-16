@@ -6,9 +6,7 @@ If you'd like to learn more about the course, [check out this webinar](https://t
 
 ## What version of the SageMaker Python SDK does this course use?
 
-The notebooks in this repository rely extensively on the official [SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/) to interact with SageMaker. 
-
-These notebook were originally written and released using version 1.x of the SDK. 
+The notebooks in this repository rely extensively on the official [SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/) to interact with SageMaker. These notebook were originally written and released using version 1.x of the SDK. 
 
 [Version 2.x](https://sagemaker.readthedocs.io/en/stable/v2.html) of the SageMaker Python SDK was [released on August 4th, 2020](https://pypi.org/project/sagemaker/#history). At this point the notebooks were ported to v2 of the SDK.
 
