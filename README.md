@@ -1,10 +1,25 @@
 # Build, Deploy, and Monitor ML Models with Amazon SageMaker
 
-**Note**: This branch contains updates to port the code to [v2 of the SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/v2.html) which was [released on August 4th, 2020](https://pypi.org/project/sagemaker/#history).
-
 This is the repository for my online course [Build, Deploy, and Monitor ML Models with Amazon SageMaker](https://mlinproduction.teachable.com/p/build-deploy-and-monitor-ml-models-with-amazon-sagemaker?utm_source=mlinproduction&utm_medium=github&utm_campaign=course_repo).
 
 If you'd like to learn more about the course, [check out this webinar](https://twimlai.com/sagemaker?utm_source=ml_in_production_webinar&utm_medium=affiliate_course&utm_campaign=sagemaker_course_202008) I recorded with Sam Charrington of the TWiML podcast.
+
+## Updating to Version 2.x of the SageMaker Python SDK
+
+The notebooks in this repository rely extensively on the official [SageMaker Python SDK](https://sagemaker.readthedocs.io/en/stable/) to interact with SageMaker. 
+
+These notebook were originally written and released using version 1.x of the SDK. 
+
+[Version 2.x](https://sagemaker.readthedocs.io/en/stable/v2.html) of the SageMaker Python SDK was [released on August 4th, 2020](https://pypi.org/project/sagemaker/#history). At this point the notebooks were ported to v2 of the SDK.
+
+Version 1.x of the SDK is **no longer supported** by this course. If you're running the v1.x notebooks, you should upgrade to v2.x.
+
+### Upgrading from Version 1.x to Version 2.x
+
+To upgrade to version 2.x:
+
+1. Install the latest version of the SageMaker SDK by running `pip install --upgrade sagemaker`. If you are executing this pip install command in a notebook, make sure to restart your kernel.
+2. Pull the latest version of this repository.
 
 ## Notebooks
 
