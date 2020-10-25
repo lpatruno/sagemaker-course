@@ -3,7 +3,6 @@ import json
 import logging
 import os
 from os.path import join
-import sagemaker_containers
 import sys
 import torch
 import torch.distributed as dist
